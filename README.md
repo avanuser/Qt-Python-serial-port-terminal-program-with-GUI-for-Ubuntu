@@ -4,7 +4,7 @@ Qt Python serial port GSM terminal with GUI for Ubuntu
 This is a terminal program with GUI communicating through serial port.
 It can be used to facilitate testing of any cellular (2G/3G/LTE/etc) or any other modems controlled by AT-like commands.
 
-This program is modified for use with Ubuntu OS (sucsessfully tested with Ubuntu 20).
+This program is modified for use with Ubuntu OS (successfully tested with Ubuntu 20).
 
 To get information about serial ports use "Ports info" button.
 To get list of free serial ports use "Get free ports" button.
