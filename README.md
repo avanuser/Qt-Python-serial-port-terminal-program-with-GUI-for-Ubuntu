@@ -8,8 +8,7 @@ This program is modified for use with Ubuntu OS (successfully tested with Ubuntu
 
 To get information about serial ports use "Ports info" button.
 To get list of free serial ports use "Get free ports" button.
-To open serial port enter number of the port (digits only) in "Port number" field and press "Open" button.
-In case of empty "Port number" field the program will open first free port with the lowest number.
+To open serial port enter number of the port (for example ttyUSB0, etc.) in "Port number" field and press "Open" button.
 
 If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2" in imports and change the following lines at the end of main.py:
 
