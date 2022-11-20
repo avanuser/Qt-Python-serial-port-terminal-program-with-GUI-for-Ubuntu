@@ -17,4 +17,4 @@ If you need to migrate from PySide6 to PySide2 just rename "PySide6" to "PySide2
 sys.exit(app.exec_())   # PySide2
 
 
-![Qt Python serial port GSM terminal](https://github.com/avanuser/qt-gsm-terminal_ubuntu/blob/main/Qt_GSM_terminal_ubuntu.png)
+![Qt Python serial port GSM terminal](Qt_GSM_terminal_ubuntu.png)
