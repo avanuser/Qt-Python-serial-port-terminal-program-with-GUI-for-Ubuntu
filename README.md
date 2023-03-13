@@ -1,5 +1,4 @@
-# Qt Python serial port terminal program with GUI for Ubuntu
-Qt Python serial port terminal program with GUI for Ubuntu
+# Serial port terminal program with GUI for Ubuntu (Python, Qt)
 
 This is a terminal program with GUI communicating through serial port.
 It can be used to facilitate testing of any cellular (2G/3G/LTE/etc) or any other modems controlled by AT-like commands.
